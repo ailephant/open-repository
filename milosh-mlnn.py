@@ -1,4 +1,4 @@
-# Updated code of Milo Spencer-Harper for Python 3.6
+# Updated code for Two Layers Neural Net of Milo Spencer-Harper for Python 3.6
 # Source: https://medium.com/technology-invention-and-more/how-to-build-a-multi-layered-neural-network-in-python-53ec3d1d326a
 
 from numpy import exp, array, random, dot
