@@ -1,5 +1,5 @@
-# Updated code of Milo Spencer-Harper for Python 3.6
-# https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1
+# Updated code for detailed Single Layer Neural Net of Milo Spencer-Harper for Python 3.6
+# Source: https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1
 
 from numpy import exp, array, random, dot
 
